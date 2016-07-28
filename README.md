@@ -1,5 +1,5 @@
 # xss
-### xss Locator
+### xss locator
 ```
 "';!--"<XSS>=&{()}
 ```
